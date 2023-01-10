@@ -31,7 +31,6 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🚀 Live Demo](#live-demo)
 
 
 <!-- PROJECT DESCRIPTION -->

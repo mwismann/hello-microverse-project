@@ -41,14 +41,3 @@ After you're finished please remove all the comments and instructions!
 > Describe your project in 1 or 2 sentences.
 
 **[hello-microverse-project]** is my first attempt to get familiar with linters and a way to improve my GitHub Flow skills.
-
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>

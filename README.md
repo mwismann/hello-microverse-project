@@ -132,15 +132,13 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
+If you like this project you can share it and mention me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank to Microverse for providing me the opportunity and inspiration for this code.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -61,7 +61,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- No there is no live demo for this project.
+- There is no live demo for this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,7 +71,8 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you don't need any previous installation
+- You don't need any previous installation in order to run this project
+
 
 ### Setup
 
@@ -82,25 +83,25 @@ Clone this repository to your desired folder:
   git clone git@github.com:mwismann/hello-microverse-project.git
 ```
 
+
 ### Install
 
-This is not an installable project
+- This is not an installable project
+
 
 ### Usage
 
-There's no command required to run the project
+- There's no command required to run the project
 
 
 ### Run tests
 
-To run tests, run the following command:
+- There's no test for this project
 
-There's no test for this project
---->
 
 ### Deployment
 
-You can't deploy this project
+- This is not a deployable project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
